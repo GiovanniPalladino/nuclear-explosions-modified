@@ -2,7 +2,7 @@
 
 Error Corrections
 1.purpose column
-Fixed scanning errors:
+Fixed scanning errors: 
 SB → SE
 Corrected duplicated / inverted values:
 PNE/WR → WR/PNE
